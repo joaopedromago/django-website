@@ -1,1 +1,1 @@
-# django-api
+# Web API developer in python, using Django Framework
