@@ -1,1 +1,1 @@
-# Web API developed with python, using Django Framework
+# Web API developed with python, using Django REST framework
