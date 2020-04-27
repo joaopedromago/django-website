@@ -1,1 +1,0 @@
-# Web API developed with python, using Django REST framework
