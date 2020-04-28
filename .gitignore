@@ -1,3 +1,5 @@
+/media
+/static
 .vscode
 venv
 *.log
